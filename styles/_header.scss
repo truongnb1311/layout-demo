@@ -1,0 +1,31 @@
+.header{
+    background-color: white !important;
+    .ant-col {
+        display: flex;
+  
+    .navbar-img{
+        img{
+            height: 40px;
+            padding: 0px 17px;
+
+        }
+    }
+    .info-merchant{
+        .name-merchant{
+            font-size: 18px;
+            font-weight: 700;
+            color: #414141;
+            .anticon {
+                color: rgb(0, 190, 0);
+                margin: 0px 8px;
+            }
+
+        }
+        .id-merchant{
+            font-size: 12px;
+            color: #a5aeb8;
+        }
+
+    }
+    }
+}
